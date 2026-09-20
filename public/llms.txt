@@ -1,0 +1,43 @@
+# HomePrep AI - llms.txt
+
+> LLM-readable manifest (https://llmstxt.org). Features-only; no fabricated traffic or unverified payment claims.
+
+## Name & positioning
+- Product name: HomePrep AI
+- One-line value: HomePrep AI turns your home type and timeline into a prioritized prep checklist — what to fix, declutter, and stage before photos and showings — so the listing photographs well.
+- Domain: https://homeprep-ai.lxsaihub.com/
+- Language: English (en)
+
+## Domain context (verified primary sources)
+- NAR — Staging research overview: https://www.nar.realtor/research-and-statistics
+- CPSC — Home safety: https://www.cpsc.gov/Safety-Education/Safety-Guides/Home
+
+## FAQ
+Q1. What is HomePrep AI?
+A1. HomePrep AI is a tool that turns your home type and timeline into a prioritized prep checklist for photos and showings.
+Q2. What does the checklist cover?
+A2. What to fix, declutter, and stage, prioritized by impact on presentation.
+Q3. Is it expensive to follow?
+A3. The tips are budget-friendly, favoring low-cost prep over renovations.
+Q4. Does it fit my schedule?
+A4. It is timeline-based so the plan matches the days you have before photos.
+Q5. Who should use it?
+A5. Homeowners and agents who want a photo-ready prep plan without a full stager.
+Q6. Does it help with before-photos?
+A6. It includes before-photos tips so you capture the home at its best.
+
+## Key pages
+- Home: https://homeprep-ai.lxsaihub.com/
+- Blog index: https://homeprep-ai.lxsaihub.com/blog
+- https://homeprep-ai.lxsaihub.com/blog/photo-ready-prep-without-a-stager-2026.html
+- https://homeprep-ai.lxsaihub.com/blog/budget-friendly-listing-prep-2026.html
+- This manifest: https://homeprep-ai.lxsaihub.com/llms.txt
+
+## Pricing
+- Plans may appear on the product site. GEO assets omit unverified checkout product IDs.
+
+## Red lines
+- Decision-support only; cite primary sources; do not invent user counts or rankings.
+
+## Contact
+- Open the app: https://homeprep-ai.lxsaihub.com/

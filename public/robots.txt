@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# LLM / AI answer-engine indexing
+LLM-Content: https://homeprep-ai.lxsaihub.com/llms.txt
+
+Sitemap: https://homeprep-ai.lxsaihub.com/sitemap.xml
